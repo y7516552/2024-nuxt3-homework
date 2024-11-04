@@ -1,3 +1,10 @@
+# Nuxt3每日任務進度
+
+| Day |進度|
+| --- |---|
+|11/4| 起手式 : 建立 Nuxt3 專案|
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
