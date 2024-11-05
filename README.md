@@ -8,19 +8,19 @@
 
 ## Day1 建立 Nuxt3 專案
 
-###步驟一
+### 步驟一
 
 ```bash
 npx nuxi@latest init [專案名稱]
 ```
 
-###步驟二
+### 步驟二
 
 ```bash
 npx nuxi add page index
 ```
 
-###步驟三
+### 步驟三
 
 在 `app.vue` 中加入`<NuxtPage/>` 
 
